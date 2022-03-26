@@ -1,0 +1,4 @@
+git+https://github.com/fadel/pytorch_ema
+torchvision
+torch
+numpy
